@@ -1,4 +1,4 @@
 # digital-writing
 
- - [ exercises ] ( exercises.md )
- - [ creative work proposal ] ( creative work proposal )
+ - [exercises] (exercises.md)
+ - [creative work proposal] (creative work proposal)
