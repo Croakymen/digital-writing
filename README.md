@@ -1,4 +1,4 @@
 # digital-writing
 
- - [ readings] ( readings.md)
+ - [ readings] ( readings.md )
  - [ creative work proposal ] ( creative work proposal )
