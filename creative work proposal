@@ -23,3 +23,12 @@
 #image formatting seems a little difficult however
 #I was interested in using images a lot so i might take a cue from dwarf fortress and use text graphics
 #there is probably a site online to convert .SVG to text graphics or something
+
+#17/4/23
+#bitsy is a good candidate to employ ludic aspects within a work
+#whether it is possible to combine with twine text is yet to be seen
+- it could have some issues in terms of loading times
+- it could habe some issues with multiple branches since all twine code is on a single page
+
+#might need to do traditional html links for options in order to have multiple bitsy files for each choice
+#isometric bitsy graphics maybe
